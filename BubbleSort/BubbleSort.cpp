@@ -18,7 +18,7 @@ void BubbleSort(int x[], int l)
 }
 int main()
 {
-    int gust[] = { 13,6,89,90,2,5,23,46,88,100,7 };
+    int gust[] = { 13,6,89,90,2,5,23,46,88,100,7};
     int len = sizeof(gust) / sizeof(int);
     cout << "Array gust before Sorting" << endl;
     for (int i = 0; i < len; i++)
